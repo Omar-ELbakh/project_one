@@ -1,6 +1,6 @@
 create page home
 create page setting
-
+create page
 merge name of name
 
 
