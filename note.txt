@@ -5,3 +5,4 @@ omr
 mora
 omar
 mo
+are
